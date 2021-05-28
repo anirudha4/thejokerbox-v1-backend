@@ -26,11 +26,3 @@ This is the backend for thejokerbox which is my Final Year project. This is just
 npm install
 ```
 
-## SCREENSHOTS
-
-![](screenshots/login.png)
-
-![](screenshots/dashboard.png))
-
-![](screenshots/upload-2.png)
-
