@@ -42,14 +42,6 @@ const downloadFromS3 = async ( res, Key, Bucket) => {
             console.log("file downloaded");
         })
     })
-    // s3.getObject(params, (err, data) => {
-    //     res.setHeader('Content-disposition', 'attachment; filename=response.pdf');
-    //     console.log(data);
-    //     res.setHeader('Content-type', data.ContentType);
-    //     const readable = toStream(Buffer.from(data.Body))
-    //     readable.pipe(res)
-    //     res.send(data.Body)
-    // })
 }
 
 module.exports = {

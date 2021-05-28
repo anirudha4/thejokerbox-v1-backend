@@ -1,2 +1,5 @@
 /node_modules
 .env
+
+/helpers/EncryptionHelper.js
+/helpers/DecryptionHelper.js
